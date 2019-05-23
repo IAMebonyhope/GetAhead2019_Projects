@@ -1,0 +1,6 @@
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\bin\Debug\Flattened_Iterator.exe.config
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\bin\Debug\Flattened_Iterator.exe
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\bin\Debug\Flattened_Iterator.pdb
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\obj\Debug\Flattened_Iterator.csprojResolveAssemblyReference.cache
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\obj\Debug\Flattened_Iterator.exe
+c:\Users\HP\Documents\Visual Studio 2017\Projects\GetAhead_Projects\Flattened_Iterator\obj\Debug\Flattened_Iterator.pdb
